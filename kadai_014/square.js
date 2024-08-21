@@ -1,2 +1,4 @@
-const num = (i) => i * i;
+const num = (i) => {
+  return i * i;
+};
 console.log(num(10));
